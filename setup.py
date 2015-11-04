@@ -21,7 +21,7 @@ setup(
     author="Open Knowledge",
     author_email="info@okfn.org",
     url="https://github.com/okfn/json-table-schema-py-old",
-    version="0.5.0",
+    version="0.5.1",
     description="Python library for dealing with JSON Table Schema files",
     long_description=description_text,
     install_requires=['jsontableschema>=0.5.1'],
